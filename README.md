@@ -36,4 +36,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<p align="center">
+<img alt="DesafioConceitosReactNative" src="https://user-images.githubusercontent.com/12499627/81343649-bf25c980-908b-11ea-9c58-538a43bf8928.PNG" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
